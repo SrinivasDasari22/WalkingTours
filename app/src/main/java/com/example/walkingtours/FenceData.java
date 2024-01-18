@@ -4,6 +4,7 @@ import com.google.android.gms.location.Geofence;
 import com.google.android.gms.maps.model.LatLng;
 
 import java.io.Serializable;
+#DS
 
 public class FenceData implements Serializable {
 
